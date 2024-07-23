@@ -1,7 +1,7 @@
 <h1 align="center">
 👋🤠 Howdy traveler! 
 May I have your attention, please!
-This is a backup account! Visit my main, @norfe15
+This is a backup account! Visit my main, <a href="https://github.com/norfe15">@norfe15</a>
 </h1>
 
 <h2 align="center"> 2024-07-23, changed my username from <b> NorthPew </b> to <b> norfe15 </b> </h2>
