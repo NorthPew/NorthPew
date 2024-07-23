@@ -1,10 +1,13 @@
 <h1 align="center">
 👋🤠 Howdy traveler! 
 May I have your attention, please!
-This is a backup account! Visit my main, <a href="https://github.com/norfe15">@norfe15</a>
+This is a backup account! Visit my main <a href="https://github.com/norfe15">@norfe15</a>
+Thank you in advance!
 </h1>
 
 <h2 align="center"> 2024-07-23, changed my username from <b> NorthPew </b> to <b> norfe15 </b> </h2>
+
+<sub align="center"> The reason why I changed my username is because I like the new cling that my new username has, and also I don't want someone to use my legacy username. </sub>
 
 <!--
 **NorthPew/NorthPew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
