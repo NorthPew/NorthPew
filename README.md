@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">
+👋🤠 Howdy traveler! 
+May I have your attention, please!
+This is a backup account! Visit my main, @norfe15
+</h1>
+
+<h2 align="center"> 2024-07-23, changed my username from <b> NorthPew </b> to <b> norfe15 </b> </h2>
 
 <!--
 **NorthPew/NorthPew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
